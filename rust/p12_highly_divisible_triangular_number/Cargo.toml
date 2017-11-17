@@ -1,0 +1,6 @@
+[package]
+name = "p12_highly_divisible_triangular_number"
+version = "0.1.0"
+authors = ["John <johnwilles@gmail.com>"]
+
+[dependencies]
