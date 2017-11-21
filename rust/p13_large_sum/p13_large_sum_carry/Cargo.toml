@@ -1,7 +1,6 @@
 [package]
-name = "p13_large_sum"
+name = "p13_large_sum_carry"
 version = "0.1.0"
 authors = ["John <johnwilles@gmail.com>"]
 
 [dependencies]
-num = "0.1"
