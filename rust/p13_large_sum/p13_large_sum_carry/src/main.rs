@@ -40,7 +40,17 @@ fn main() {
   let filename = "numbers.txt";
   let numbers = read_numbers(filename);
 
-  println!("{:?}", numbers);
+  let mut sum_total = BigInt::new(Sign::Plus, vec![0]); 
+
+  for number in numbers {
+    sum_total = sum_total + number;   
+    println!("{:?}", sum_total);
+  // sum_total = sum_total::Add(number); 
+  }
+
+
+//  println!("{:?}", numbers);
+//  println!("{}", sum_total::to_u64);
 
 }
 
