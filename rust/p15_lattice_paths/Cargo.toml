@@ -1,0 +1,6 @@
+[package]
+name = "p15_lattice_paths"
+version = "0.1.0"
+authors = ["John <johnwilles@gmail.com>"]
+
+[dependencies]
