@@ -1,0 +1,4 @@
+[root]
+name = "p14_largest_collatz_sequence"
+version = "0.1.0"
+
