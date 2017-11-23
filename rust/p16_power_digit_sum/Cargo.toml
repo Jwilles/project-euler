@@ -1,0 +1,6 @@
+[package]
+name = "p16_power_digit_sum"
+version = "0.1.0"
+authors = ["John <johnwilles@gmail.com>"]
+
+[dependencies]
