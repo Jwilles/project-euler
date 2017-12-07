@@ -1,3 +1,6 @@
 fn main() {
-    println!("Hello, world!");
+
+  let x: [u64; 500] = [0; 500];
+  println!("{}", x[200]);
+
 }
