@@ -1,0 +1,6 @@
+[package]
+name = "p22_names_scores"
+version = "0.1.0"
+authors = ["John <johnwilles@gmail.com>"]
+
+[dependencies]
